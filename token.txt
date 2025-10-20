@@ -1,1 +1,3 @@
-sqa_2b290d2395c8812c98022f187e9dda57033a5dc6
+token : sqa_2b290d2395c8812c98022f187e9dda57033a5dc6
+
+Project_key:sample-java-sonarqube
